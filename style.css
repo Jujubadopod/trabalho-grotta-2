@@ -61,26 +61,6 @@ p {
     margin-bottom: 20px;
 }
 
-.botoes {
-    margin-top: 20px;
-}
-
-.botoes a {
-    display: inline-block;
-    background-color: var(--cor2);
-    padding: 10px 20px;
-    border-radius: 10px;
-    font-family: 'Jersey 25', sans-serif;
-    font-size: 18px;
-    color: white;
-    text-decoration: none;
-    margin-right: 15px;
-}
-
-.botoes a:hover {
-    background-color: var(--cor3);
-    color: black;
-}
 
 
 footer {
@@ -114,7 +94,7 @@ footer {
 table {
     width: 80%;
     max-width: 800px;
-    margin: 40px auto; /* Centraliza e dá espaçamento vertical */
+    margin: 40px auto; 
     border-collapse: collapse;
     border-radius: 8px;
     overflow: hidden;
@@ -123,7 +103,7 @@ table {
     font-size: 13px;
   }
   
-  /* Espaço entre a tabela e o footer */
+
   main {
     flex: 1;
     padding: 30px 50px;
@@ -132,7 +112,7 @@ table {
     align-items: center;
   }
   
-  /* Estilo das células */
+ 
   td {
     padding: 10px 15px;
     text-align: left;
